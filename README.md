@@ -1,2 +1,2 @@
 # airsim_boat_environments
-Precompiled binaries for quadrotor boat-landing environment in AirSim powered bu UE4
+Precompiled binaries for quadrotor boat-landing environment in AirSim powered bu UE4. These environments were prepared as a part of research done in the BYU MAGICC lab to simulate an environment with a boat for quadrotor landing. The boat contains a fiducial marker (AprilTag) that can be used for localization. Further information on how to run the simulation can be found here: https://github.com/ajordan5/control_px4
